@@ -1,0 +1,77 @@
+# Currículo - Jaime Martins
+
+## Resumo Profissional
+Jaime Martins é um Desenvolvedor Back-end especialista em GenAI e APIs REST. Possui experiência em Inteligência Artificial Generativa e na construção de APIs RESTful escaláveis e seguras. Atua no desenvolvimento de back-ends robustos, integrações com APIs externas e automações inteligentes. Atualmente, está se especializando em Governança de Produtos em Cloud e FinOps para aliar sua bagagem técnica a práticas de gestão eficiente de custos e governança de produtos digitais.
+
+---
+
+## Informações de Contato
+- **Email:** contato.jaimemartins@gmail.com
+- **WhatsApp:** +55 (48) 99635-4498
+- **LinkedIn:** https://www.linkedin.com/in/jaime-martins-de-oliveira/
+- **GitHub:** https://github.com/JaimeMartinsOliveira
+- **Website:** https://jaimemartins.tech
+
+---
+
+## Sobre Mim
+Entusiasta de tecnologia que gosta de resolver problemas de forma prática e inteligente. Atua como desenvolvedor Back-end com foco em APIs REST, automações e explora o universo da Inteligência Artificial Generativa. Transforma ideias em soluções úteis, como assistentes virtuais, integração de sistemas via API e otimização de processos com dados. Nos últimos tempos, tem direcionado a carreira para governança técnica, eficiência em cloud e produto digital. É movido por curiosidade, aprendizado constante e a vontade de fazer parte de projetos com propósito.
+
+---
+
+## Formação Acadêmica
+- **Engenharia de Software:** PUC Minas (Cursando, previsão de conclusão em 2026).
+- **Análise e Desenvolvimento de Sistemas:** Unisul (Concluído em 2024).
+
+---
+
+## Experiência Profissional
+
+### Desenvolvedor Back-End (Freelancer)
+- **Empresa:** Workana
+- **Período:** 2023 – Presente (Remoto)
+- **Descrição:** Atuação no desenvolvimento de APIs RESTful, automações internas e soluções de back-end com foco em eficiência, rastreabilidade e segurança. Criação de agentes inteligentes e chatbots com NLP e machine learning. Desenvolvimento de plataformas completas como sistemas de recomendação e e-commerces com IA.
+- **Destaques:** Criação de APIs com autenticação JWT e cache Redis; Projetos com OpenAI, LLaMA, LangChain e integração com Twilio; Processamento assíncrono, classificação inteligente e análise de sentimentos.
+- **Tecnologias:** Python, Scikit-learn, Django REST, FastAPI, PostgreSQL, Redis, Docker, HuggingFace, OpenAI, LangChain.
+
+### Sales Operations Manager
+- **Empresa:** 123Projetei
+- **Período:** Nov 2023 – Mai 2024 (Híbrido)
+- **Descrição:** Liderou a automação de processos comerciais e técnicos com scripts Python e integrações com APIs e CRMs (WhatsApp Business). Implementou soluções para eficiência operacional, governança técnica e controle de recursos em cloud (Cloud FinOps). Criou fluxos automatizados com modelos de linguagem da OpenAI para qualificação de leads e geração de relatórios.
+- **Tecnologias:** Python, Pandas, PostgreSQL, N8N.
+
+### Analista de Dados
+- **Empresa:** 123Projetei
+- **Período:** Mai 2023 – Nov 2023 (Presencial)
+- **Descrição:** Responsável pela estruturação de dados operacionais e desenvolvimento de dashboards interativos para análise de eficiência técnica e uso de infraestrutura em cloud. Implementou pipelines de dados em Python, consultas SQL otimizadas e relatórios em Power BI, auxiliando na tomada de decisão com análises preditivas.
+- **Tecnologias:** Python, Pandas, Power BI, SQL.
+
+---
+
+## Habilidades Técnicas
+- **Backend Development:** Python, Django, FastAPI, Java, Spring Boot, GoLang.
+- **Frontend Development:** Html, Css, JavaScript, Angular, Streamlit.
+- **Database & Tools:** PostgreSQL, Mongodb, Redis, Docker, JWT, Swagger, NumPy, Pandas.
+
+---
+
+## Projetos Principais
+
+### LlamaScrapeAsync
+- **Descrição:** Prova de conceito que integra um modelo de linguagem local (Hugging Face) com automação de navegador (Playwright) e interface com NiceGUI. O objetivo é permitir que um agente de linguagem natural controle um navegador para buscar informações e interagir com páginas web.
+- **Tecnologias:** Python, Pandas, transformers, LangChain, Playwright, NiceGUI, Google FLAN-T5 Large.
+- **Link:** https://github.com/JaimeMartinsOliveira/LlamaScrapeAsync
+
+### Easy-Finance: Finanças Inteligentes para Autônomos
+- **Descrição:** App de finanças pessoais para autônomos. Back-end desenvolvido com Python (FastAPI) e front-end com Ionic/React. Unifica transações bancárias (via API Open Finance da Belvo) com registros manuais. O diferencial é um assistente com IA que gera análises e metas financeiras.
+- **Tecnologias:** Python, FastAPI, PostgreSQL, Docker, N8N, Belvo Api, React, Ionic, JWT.
+
+### Documentos-Infraestrutura-NLP
+- **Descrição:** Assistente inteligente treinado para reconhecer e classificar automaticamente descrições de atividades em documentos e relatórios de gestão de infraestrutura pública. Utiliza um modelo de Machine Learning (Random Forest) com vetores TF-IDF e possui uma interface interativa com Gradio.
+- **Tecnologias:** Python, NLTK, Pandas, NLP, Scikit-learn, Streamlit, transformers.
+- **Link:** https://github.com/JaimeMartinsOliveira/Documentos-Infraestrutura-NLP
+
+### infra-doc-classifier
+- **Descrição:** Classificador de documentos técnicos de infraestrutura utilizando NLP com Transformers. O projeto visa classificar automaticamente documentos por setores (energia, transporte, saneamento), ideal para organizações que lidam com grandes volumes de textos técnicos.
+- **Tecnologias:** Python, NLTK, Pandas, NLP, Scikit-learn, Streamlit, transformers, NumPy.
+- **Link:** https://github.com/JaimeMartinsOliveira/infra-doc-classifier
